@@ -1,2 +1,7 @@
-# zp-finder
-zippyshare url finder 
+```
+run:
+python find.py < dork >
+
+required python3 new vers!
+```
+----
